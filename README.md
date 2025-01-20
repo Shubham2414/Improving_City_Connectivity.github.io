@@ -2,7 +2,7 @@
 
 ## **Portfolio**
 <hr>
-### Hello, I'm **Shubham K** 👋
+### Hello, I'm **Shubham Karangale** 👋
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
 <hr>
