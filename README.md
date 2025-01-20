@@ -52,7 +52,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>Course Name       : Algorithm Lab</dt>
 <dt>Course Code       : 24ECSP205</dt>
 <hr>
-<dt>Name              : Shubham K</dt>
+<dt>Name              : Shubham Karangale</dt>
 <dt>SRN               : 20FE23BCS142</dt>
 <dt>Course Instructor : Prof. Vaishali Parab</dt>
 <dt>University        : KLE Technological University</dt>
