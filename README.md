@@ -2,7 +2,7 @@
 
 ## **Portfolio**
 <hr>
-### Hello, I'm **Shubham Ki** 👋
+### Hello, I'm **Shubham K** 👋
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
 <hr>
@@ -53,7 +53,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>Course Code       : 24ECSP205</dt>
 <hr>
 <dt>Name              : Shubham K</dt>
-<dt>SRN               : 20FE23BCS063</dt>
+<dt>SRN               : 20FE23BCS142</dt>
 <dt>Course Instructor : Prof. Vaishali Parab</dt>
 <dt>University        : KLE Technological University</dt>
 </dl>
